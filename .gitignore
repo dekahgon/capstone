@@ -1,0 +1,24 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# OS files
+.DS_Store
+
+# VS Code workspace files
+capstone.code-workspace
+.vscode/
+
+# Jupyter / notebooks
+.ipynb_checkpoints/
+
+# Local generated artifacts
+*.log
+nyc_subway.html
